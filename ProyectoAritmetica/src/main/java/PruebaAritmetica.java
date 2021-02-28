@@ -11,6 +11,5 @@ public class PruebaAritmetica {
         
         System.out.println("El resultado  es = " + resultado);
         System.out.println("El resultado  de la segunda VERSION = " + resultado);
-        System.out.println("El resultado  de la TERCERA VERSION = " + resultado);
     }
 }
