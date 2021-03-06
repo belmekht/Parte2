@@ -10,6 +10,6 @@ public class PruebaAritmetica {
         int resultado = aritmetica.sumar(5, 3);
         
         System.out.println("El resultado  es = " + resultado);
-        System.out.println("El resultado  de la segunda VERSION = " + resultado);
+        System.out.println("El resultado  de la = " + resultado);
     }
 }
