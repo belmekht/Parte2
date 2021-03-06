@@ -11,5 +11,7 @@ public class PruebaAritmetica {
         
         System.out.println("El resultado  es = " + resultado);
         System.out.println("El resultado  de la = " + resultado);
+        System.out.println("Segunda Version Para 2 parte= " + resultado);
+        
     }
 }
